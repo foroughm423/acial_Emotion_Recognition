@@ -84,6 +84,7 @@ The following table summarizes the final classification performance of both appr
 📘 To see the model outputs, training logs, and visualizations interactively, check out the full version of this notebook on Kaggle:  
 
 📊 [CSV-Based Notebook on Kaggle](https://www.kaggle.com/code/foroughgh95/facial-emotion-recognition-csv-based)
+
 🖼️ [Image-Based Notebook on Kaggle](https://www.kaggle.com/code/foroughgh95/facial-emotion-recognition-image-based)
 
 ---
